@@ -178,6 +178,7 @@ When you compile, use the modern compiler with "make modern". Compiling using th
 * Amulet coin works always, doesn't matter who has it.
 
 **Map related:**
+* New tileset graphics inspired by ORAS, giving the game a new look and feel. (Created by leob0505, inspired by Pokemon ORAS and TheDeadHeroAlistair from DeviantArt)
 * Altering cave is now an Unown cave.
 * A few new maps to introduce the new Regis and the legendary events.
 * Mirage Island can be forced with a certain Pokémon in the party, apart from its unusual rate.
