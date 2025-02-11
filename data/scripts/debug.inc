@@ -57,16 +57,16 @@ Debug_Script_1_Closemessage::
 	end
 
 Debug_Script_1_Text:
-	.string "WARNING! ENTERING THE CHALLENGES\n"
-	.string "MENU COULD MESS YOUR SAVE DATA.\p"
-	.string "SOME OPTIONS MAY NOT WORK UNLESS A\n"
-	.string "NEW GAME IS STARTED. PLEASE BACKUP\p"
-	.string "YOUR DATA BEFORE PRESSING YES.$"
+	.string "Warning! Entering The Challenges\n"
+	.string "Menu Could Mess Your Save Data.\p"
+	.string "Some Options May Not Work Unless A\n"
+	.string "New Game Is Started. Please Backup\p"
+	.string "Your Data Before Pressing Yes.$"
 
 Debug_Script_1_Text2:
-	.string "ALL OPTIONS YOU CHOSE AT THE START\n"
-	.string "OF THE GAME WILL RESET AND YOU\l"
-	.string "WILL HAVE TO ENABLE THEM AGAIN.$"
+	.string "All Options You Chose At The Start\n"
+	.string "Of The Game Will Reset and You\l"
+	.string "Will Have To Enable Them Again.$"
 
 Debug_Script_2::
 	callnative Berry_Ready

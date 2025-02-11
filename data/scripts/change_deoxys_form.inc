@@ -50,7 +50,7 @@ ChangeDeoxysForm_Text_End:
 	.string "I should get going.$"
 
 ChangeDeoxysForm_Text_End2:
-	.string "My POKéMON enjoyed touching the\n"
+	.string "My Pokémon enjoyed touching the\n"
 	.string "meteorite more than I expected!\p"
 	.string "I should get going.$"
 
@@ -58,11 +58,11 @@ ChangeDeoxysForm_Text_Select:
 	.string "…\p"
 	.string "…\p"
 	.string "The surface has a rough feeling.\p"
-	.string "Should I let any of my POKéMON\n"
+	.string "Should I let any of my Pokémon\n"
 	.string "touch this meteorite?$"
 
 ChangeDeoxysForm_Text_Success:
-	.string "Something has happened to DEOXYS!$"
+	.string "Something has happened to Deoxys!$"
 
 ChangeDeoxysForm_Movement:
 	emote_question_mark

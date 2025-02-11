@@ -56,9 +56,9 @@ static void DebugPkmCreator_EditModeProcessInput(u8);
 static u8 DebugPkmCreator_GiveToPlayer(void);
 
 static const u8 Str_Species[] = _("Species");
-static const u8 Str_Personality[] = _("PID/Nature/Gender");
-static const u8 Str_TrainerID[] = _("TID/SID/OT Gender");
-static const u8 Str_SecretID[] = _("SID");
+static const u8 Str_Personality[] = _("Pid/Nature/Gender");
+static const u8 Str_TrainerID[] = _("Tid/sid/ot Gender");
+static const u8 Str_SecretID[] = _("Sid");
 static const u8 Str_OT[] = _("OT Name");
 static const u8 Str_Nick[] = _("Nickname");
 static const u8 Str_Gender[] = _("Gender");
@@ -83,14 +83,14 @@ static const u8 Str_Def[] = _("Def");
 static const u8 Str_Spe[] = _("Spe");
 static const u8 Str_SpA[] = _("SpA");
 static const u8 Str_SpD[] = _("SpD");
-static const u8 Str_HP_IV_EV[] = _("HP IV/EV/Now/Max");
-static const u8 Str_Atk_IV_EV[] = _("Atk IV/EV/Res");
-static const u8 Str_Def_IV_EV[] = _("Def IV/EV/Res");
-static const u8 Str_Spe_IV_EV[] = _("Spd IV/EV/Res");
-static const u8 Str_SpA_IV_EV[] = _("Sp. Atk IV/EV/Res");
-static const u8 Str_SpD_IV_EV[] = _("Sp. Def IV/EV/Res");
-static const u8 Str_EV[] = _("EV");
-static const u8 Str_IV[] = _("IV");
+static const u8 Str_HP_IV_EV[] = _("HP Iv/ev/Now/Max");
+static const u8 Str_Atk_IV_EV[] = _("Atk Iv/ev/Res");
+static const u8 Str_Def_IV_EV[] = _("Def Iv/ev/Res");
+static const u8 Str_Spe_IV_EV[] = _("Spd Iv/ev/Res");
+static const u8 Str_SpA_IV_EV[] = _("Sp. Atk Iv/ev/Res");
+static const u8 Str_SpD_IV_EV[] = _("Sp. Def Iv/ev/Res");
+static const u8 Str_EV[] = _("Ev");
+static const u8 Str_IV[] = _("Iv");
 static const u8 Str_Current[] = _("Current");
 static const u8 Str_Status[] = _("Status");
 static const u8 Str_Cool[] = _("Cool");
@@ -153,11 +153,11 @@ static const u8 *const IsShinyIndex[2] = {
 };
 
 static const u8 Str_None[] = _("---");
-static const u8 Str_Psn[] = _("PSN");
-static const u8 Str_Par[] = _("PAR");
-static const u8 Str_Brn[] = _("BRN");
-static const u8 Str_Slp[] = _("SLP");
-static const u8 Str_Frz[] = _("FRZ");
+static const u8 Str_Psn[] = _("Psn");
+static const u8 Str_Par[] = _("Par");
+static const u8 Str_Brn[] = _("Brn");
+static const u8 Str_Slp[] = _("Slp");
+static const u8 Str_Frz[] = _("Frz");
 static const u8 Str_Psn2[] = _("PSN2");
 
 static const u8 *const StatusIndexes[7] = {

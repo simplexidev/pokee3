@@ -35,25 +35,25 @@ PetalburgCity_GalladeEvo3:
 	end
 
 PetalburgCity_GalladeEvo_Text:
-	.string "PROF. BIRCH might be the most famous\n"
-	.string "PROFESSOR of HOENN, but I am also a\l"
-	.string "reliable PROFESSOR.\p"
+	.string "Prof. Birch might be the most famous\n"
+	.string "Professor of Hoenn, but I am also a\l"
+	.string "reliable Professor.\p"
 	.string "To prove it, I can give you a piece of\n"
 	.string "information that he might not know\l"
 	.string "about. Do you want to listen to it?$"
 
 PetalburgCity_GalladeEvo_Text2:
-	.string "Choosing between a MALE or FEMALE RALTS\n"
+	.string "Choosing between a Male or Female Ralts\n"
 	.string "is quite important.\p"
 	.string "Depending on what you capture, the last\n"
-	.string "evolution of RALTS will be different.\p"
-	.string "If RALTS is MALE, he will naturally\n"
-	.string "evolve into GALLADE but only if it\l"
+	.string "evolution of Ralts will be different.\p"
+	.string "If Ralts is Male, he will naturally\n"
+	.string "evolve into Gallade but only if it\l"
 	.string "happens during the morning, which is\l"
-	.string "from 6AM to 9AM.\p"
-	.string "RALTS will evolve into GARDEVOIR if he\n"
+	.string "from 6Am to 9Am.\p"
+	.string "Ralts will evolve into Gardevoir if he\n"
 	.string "doesn't evolve during morning, or if\l"
-	.string "said RALTS is FEMALE.\p"
+	.string "said Ralts is Female.\p"
 	.string "I believe this information might be\n"
 	.string "useful for a new trainer like you.$"
 
@@ -748,24 +748,24 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "Where has our WALLY gone?\p"
-	.string "We have to leave for VERDANTURF TOWN\n"
+	.string "Where has our Wally gone?\p"
+	.string "We have to leave for Verdanturf Town\n"
 	.string "very soon…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
 	.string "Hiya! Are you maybe…\n"
-	.string "A rookie TRAINER?\p"
-	.string "Do you know what POKéMON TRAINERS\n"
+	.string "A rookie Trainer?\p"
+	.string "Do you know what Pokémon Trainers\n"
 	.string "do when they reach a new town?\p"
-	.string "They first check what kind of GYM\n"
+	.string "They first check what kind of Gym\n"
 	.string "is in the town.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "See? This is PETALBURG CITY's GYM.$"
+	.string "See? This is Petalburg City's Gym.$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "This is the GYM's sign. Look for it\n"
-	.string "whenever you're looking for a GYM.$"
+	.string "This is the Gym's sign. Look for it\n"
+	.string "whenever you're looking for a Gym.$"
 
 PetalburgCity_Text_WaterReflection:
 	.string "My face is reflected in the water.\p"
@@ -775,36 +775,36 @@ PetalburgCity_Text_WaterReflection:
 	.string "What do you see reflected in your face?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Let's say you have six POKéMON.\n"
+	.string "Let's say you have six Pokémon.\n"
 	.string "If you catch another one…\p"
-	.string "It is automatically sent to a STORAGE\n"
-	.string "BOX over a PC connection.$"
+	.string "It is automatically sent to a Storage\n"
+	.string "Box over a PC connection.$"
 
 PetalburgCity_Text_GymSign:
-	.string "PETALBURG CITY POKéMON GYM\n"
-	.string "LEADER: NORMAN\l"
+	.string "Petalburg City Pokémon Gym\n"
+	.string "Leader: Norman\l"
 	.string "“A man in pursuit of power!”$"
 
 PetalburgCity_Text_CitySign:
-	.string "PETALBURG CITY\n"
+	.string "Petalburg City\n"
 	.string "“Where people mingle with nature.”$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "WALLY'S HOUSE$"
+	.string "Wally's House$"
 
 PetalburgCity_Text_AreYouATrainer:
 	.string "Excuse me!\p"
 	.string "Let me guess, from the way you're\n"
-	.string "dressed, are you a POKéMON TRAINER?$"
+	.string "dressed, are you a Pokémon Trainer?$"
 
 PetalburgCity_Text_WellMaybeNot:
 	.string "… … … … … …\p"
 	.string "Well, maybe not.\n"
 	.string "Your clothes aren't all that dirty.\p"
-	.string "You're either a rookie TRAINER,\n"
+	.string "You're either a rookie Trainer,\n"
 	.string "or maybe you're just an ordinary kid.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
 	.string "I'm roaming the land in search of\n"
-	.string "talented TRAINERS.\p"
+	.string "talented Trainers.\p"
 	.string "I'm sorry to have taken your time.$"

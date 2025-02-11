@@ -17,8 +17,8 @@ BattleFrontier_Lounge9_Heal::
 	end
 
 BattleFrontier_Lounge9_Heal_TEXT:
-	.string "Hi! Welcome to the HYPER TRAINING GYM!\n"
-	.string "I will heal your POKéMON.$"
+	.string "Hi! Welcome to the Hyper Training Gym!\n"
+	.string "I will heal your Pokémon.$"
 
 BattleFrontier_Lounge9_Heal_TEXT2:
 	.string "We hope to see you again!$"
@@ -297,7 +297,7 @@ BattleFrontier_Lounge9_IV_TextNoChampion:
 	.string "Hmm? What?\p"
 	.string "Oh, you're a trainer. But not\n"
 	.string "one I would call strong…\p"
-	.string "Try beating the POKéMON LEAGUE\n"
+	.string "Try beating the Pokémon League\n"
 	.string "and come back again.\p"
 	.string "I will show you the strongest\n"
 	.string "training routine of the region!$"
@@ -534,7 +534,7 @@ BattleFrontier_Lounge9_MultichoiceIVs_SPDEF_30::
 	end
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs:
-	.string "Would you like to customize the IV\n"
+	.string "Would you like to customize the Iv\n"
 	.string "stat distribution?$"
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs_HP:
@@ -543,23 +543,23 @@ BattleFrontier_Lounge9_IV_Text_CustomizeIVs_HP:
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs_ATK:
 	.string "How many points should I set the\n"
-	.string "ATK stat to?$"
+	.string "Atk stat to?$"
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs_SPATK:
 	.string "How many points should I set the\n"
-	.string "SP.ATK stat to?$"
+	.string "Sp.Atk stat to?$"
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs_DEF:
 	.string "How many points should I set the\n"
-	.string "DEF stat to?$"
+	.string "Def stat to?$"
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs_SPDEF:
 	.string "How many points should I set the\n"
-	.string "SP.DEF stat to?$"
+	.string "Sp.Def stat to?$"
 
 BattleFrontier_Lounge9_IV_Text_CustomizeIVs_SPD:
 	.string "How many points should I set the\n"
-	.string "SPD stat to?$"
+	.string "Spd stat to?$"
 
 BattleFrontier_Lounge9_IV_Text_SetMaxQuestion:
 	.string "I will set all IVs to the maximum\n"
@@ -572,26 +572,26 @@ BattleFrontier_Lounge9_IV_TextFirstTime:
 	.string ". . .\p"
 	.string ". . .\p"
 	.string "Oh… Of course! I saw you on\n"
-	.string "the TV a short while ago!\p"
-	.string "I'm IVAN, but you can call me IV-MAN!\p"
-	.string "I'm the brother of EV-MAN,\n"
+	.string "the Tv a short while ago!\p"
+	.string "I'm Ivan, but you can call me Iv-man!\p"
+	.string "I'm the brother of Ev-man,\n"
 	.string "to no one's surprise.\p"
 	.string "And you…\p"
 	.string "You are {PLAYER} and you recently\n"
-	.string "won the POKéMON LEAGUE, right?\p"
+	.string "won the Pokémon League, right?\p"
 	.string "Your last combat was quite amazing.\p"
 	.string "I learned so many things from you\n"
-	.string "that I decided to join your FAN CLUB!\p"
+	.string "that I decided to join your Fan Club!\p"
 	.string "Anyway, I also decided to become\n"
 	.string "stronger so I created the\l"
 	.string "absolute training routine.\p"
-	.string "For POKéMON, of course!\n"
+	.string "For Pokémon, of course!\n"
 	.string "If you want we can train together to\l"
-	.string "maximize the potential of your POKéMON.\p"
+	.string "maximize the potential of your Pokémon.\p"
 	.string "But… to maximize that potential, the\n"
-	.string "POKéMON needs to be ready for it.\p"
-	.string "Only POKéMON who have reached its\n"
-	.string "maximum LEVEL can whitstand\l"
+	.string "Pokémon needs to be ready for it.\p"
+	.string "Only Pokémon who have reached its\n"
+	.string "maximum Level can whitstand\l"
 	.string "this training routine.\p"
 	.string "Do you want to try it?\p"
 	.string "It's a lenghty and difficult process, so\n"
@@ -599,43 +599,43 @@ BattleFrontier_Lounge9_IV_TextFirstTime:
 	.string "Tell me when you are ready!$"
 
 BattleFrontier_Lounge9_IV_Text1:
-	.string "IV-MAN: Hi! What's up?\n"
+	.string "Iv-man: Hi! What's up?\n"
 	.string "Ready for the best training routine of\l"
-	.string "all HOENN?$"
+	.string "all Hoenn?$"
 
 BattleFrontier_Lounge9_IV_Continue_Text:
 	.string "Are you sure that this is the correct\n"
-	.string "POKéMON?$"
+	.string "Pokémon?$"
 
 BattleFrontier_Lounge9_IV_Text_No:
 	.string "Oh… Well, see you another time.$"
 
 BattleFrontier_Lounge9_IV_Text_NoLevel:
-	.string "I don't think your POKéMON has reached\n"
-	.string "its maximum LEVEL…$"
+	.string "I don't think your Pokémon has reached\n"
+	.string "its maximum Level…$"
 
 BattleFrontier_Lounge9_IV_Finish:
 	.string "Phew… I'm exhausted…\n"
-	.string "What about your POKéMON?\p"
-	.string "You should REST a bit\n"
+	.string "What about your Pokémon?\p"
+	.string "You should Rest a bit\n"
 	.string "before going.\p"
 	.string "Well, see you soon!$"
 
 BattleFrontier_Lounge9_EV_SetZeroText:
-	.string "Hello there, trainer! My name's EVAN,\n"
-	.string "but I'm known as EV-MAN around here!\p"
-	.string "I am the owner this GYM, and I train\n"
-	.string "here together with my brother IVAN.\p"
-	.string "If you want to reset your POKéMON\n"
+	.string "Hello there, trainer! My name's Evan,\n"
+	.string "but I'm known as Ev-man around here!\p"
+	.string "I am the owner this Gym, and I train\n"
+	.string "here together with my brother Ivan.\p"
+	.string "If you want to reset your Pokémon\n"
 	.string "EVs to zero, just talk to me.$"
 
 BattleFrontier_Lounge9_EV_SetZeroTextNoIntro:
-	.string "EV-MAN: Welcome again!\n"
-	.string "Do you want to reset all POKéMON\l"
-	.string "EFFORT VALUES to zero?$"
+	.string "Ev-man: Welcome again!\n"
+	.string "Do you want to reset all Pokémon\l"
+	.string "Effort Values to zero?$"
 
 BattleFrontier_Lounge9_EV_SetZeroText2:
-	.string "Alright, which POKéMON EVs should I\n"
+	.string "Alright, which Pokémon EVs should I\n"
 	.string "reset to zero?$"
 
 BattleFrontier_Lounge9_EV_SetZeroText3:
@@ -659,73 +659,73 @@ BattleFrontier_Lounge9_EV_SetZeroTextNoMoney:
 
 BattleFrontier_Lounge9_EV_SetZeroTextSure:
 	.string "Are you sure you want to reset this\n"
-	.string "POKéMON EV values?\p"
+	.string "Pokémon Ev values?\p"
 	.string "This process can't be undone.$"
 
 BattleFrontier_Lounge9_EV_Column_Text:
-	.string "Welcome to the HYPER TRAINING GYM!\p"
-	.string "Here you can train your POKéMON\n"
-	.string "to improve their STATS.\p"
+	.string "Welcome to the Hyper Training Gym!\p"
+	.string "Here you can train your Pokémon\n"
+	.string "to improve their Stats.\p"
 	.string "How does this work?\p"
-	.string "Win one battle and obtain EFFORT VALUES\n"
-	.string "for the selected stat of your POKéMON.\p"
-	.string "TRAINER TIP 1:\n"
+	.string "Win one battle and obtain Effort Values\n"
+	.string "for the selected stat of your Pokémon.\p"
+	.string "Trainer Tip 1:\n"
 	.string "Reset EVs to zero by talking\l"
-	.string "to EV-Man.\p"
-	.string "TRAINER TIP 2:\n"
-	.string "Equip a MACHO BRACE to multiply\l"
+	.string "to Ev-Man.\p"
+	.string "Trainer Tip 2:\n"
+	.string "Equip a Macho Brace to multiply\l"
 	.string "by 5 the EVs gained.\p"
-	.string "TRAINER TIP 3:\n"
+	.string "Trainer Tip 3:\n"
 	.string "A new type of training is available\l"
 	.string "at the right corner of the gym.$"
 
 BattleFrontier_Lounge9_EV_HP_TEXT:
 	.string "Hi ya buddy! I can train your\n"
-	.string "POKéMON in HEALTH POINTS.\p"
+	.string "Pokémon in Health Points.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_Lounge9_EV_HP_TEXT2:
-	.string "Go WAILORD!$"
+	.string "Go Wailord!$"
 
 BattleFrontier_Lounge9_EV_ATK_TEXT:
-	.string "OSHA! I can train your POKéMON\n"
-	.string "in ATTACK.\p"
+	.string "Osha! I can train your Pokémon\n"
+	.string "in Attack.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_Lounge9_EV_ATK_TEXT2:
-	.string "Go GALLADE!$"
+	.string "Go Gallade!$"
 
 BattleFrontier_Lounge9_EV_SATK_TEXT:
-	.string "Bonjour! I can train your POKéMON\n"
-	.string "in SPECIAL ATTACK.\p"
+	.string "Bonjour! I can train your Pokémon\n"
+	.string "in Special Attack.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_Lounge9_EV_SATK_TEXT2:
-	.string "Go GARDEVOIR!$"
+	.string "Go Gardevoir!$"
 	
 BattleFrontier_Lounge9_EV_DEF_TEXT:
 	.string "Sup' kid! I can train your\n"
-	.string "POKéMON in DEFENSE.\p"
+	.string "Pokémon in Defense.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_Lounge9_EV_DEF_TEXT2:
-	.string "Go AGGRON!$"
+	.string "Go Aggron!$"
 
 BattleFrontier_Lounge9_EV_SDEF_TEXT:
 	.string "Bonjour mon trainer! I can train your\n"
-	.string "POKéMON in SPECIAL DEFENSE.\p"
+	.string "Pokémon in Special Defense.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_Lounge9_EV_SDEF_TEXT2:
-	.string "Go LUDICOLO!$"
+	.string "Go Ludicolo!$"
 
 BattleFrontier_Lounge9_EV_SPD_TEXT:
 	.string "Hmph… I can train your\n"
-	.string "POKéMON in SPEED.\p"
+	.string "Pokémon in Speed.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_Lounge9_EV_SPD_TEXT2:
-	.string "Go SCEPTILE!$"
+	.string "Go Sceptile!$"
 
 BattleFrontier_Lounge9_EV_No_TEXT:
 	.string "No? Okay.$"
@@ -768,10 +768,10 @@ BattleFrontier_Lounge9_Chansey5ChampionText:
 	.string "Come back when you get stronger.$"
 
 BattleFrontier_Lounge9_Chansey5Intro:
-	.string "My BLISSEY are ready for it!$"
+	.string "My Blissey are ready for it!$"
 
 BattleFrontier_Lounge9_Chansey5Defeat:
-	.string "Oh no… BLISSEY, use SOFT-BOILED!$"
+	.string "Oh no… Blissey, use Soft-boiled!$"
 
 BattleFrontier_Lounge9_Chansey5Repeat:
 	.string "We can battle again if you want!$"
@@ -847,22 +847,22 @@ BattleFrontier_Lounge9_Ability_Finish_Text:
 	.string "That's it! You're welcome!$"
 
 BattleFrontier_Lounge9_Ability_Text1:
-	.string "Welcome! I'm the ABILITY EXPERT!\p"
-	.string "I can swap POKéMON's abilities in\n"
+	.string "Welcome! I'm the Ability Expert!\p"
+	.string "I can swap Pokémon's abilities in\n"
 	.string "a heartbeat, only for 25.000¥!\p"
 	.string "Would you like me to swap any\n"
-	.string "POKéMON's ability?$"
+	.string "Pokémon's ability?$"
 
 BattleFrontier_Lounge9_Ability_Text_No:
 	.string "Sure. I'll be here if you need me.$"
 
 BattleFrontier_Lounge9_Ability_Text_Cant:
-	.string "I cannot do that. This POKéMON\n"
-	.string "does not have a second ABILITY!$"
+	.string "I cannot do that. This Pokémon\n"
+	.string "does not have a second Ability!$"
 
 BattleFrontier_Lounge9_Ability_Text_NoChampion:
-	.string "Welcome! I'm the ABILITY EXPERT!\p"
-	.string "I can swap POKéMON's abilities\n"
+	.string "Welcome! I'm the Ability Expert!\p"
+	.string "I can swap Pokémon's abilities\n"
 	.string "in a heartbeat.\p"
 	.string "Unfortunately, my back hurts and\n"
 	.string "I can't work today.\p"

@@ -433,10 +433,10 @@ static const u8 MAP_GROUP_COUNT[] = {57, 5, 5, 6, 7, 8, 9, 7, 7, 14, 8, 17, 10, 
 
 // Text
 // General
-static const u8 sDebugText_True[] =          _("TRUE");
-static const u8 sDebugText_False[] =         _("FALSE");
-static const u8 sDebugText_Colored_True[] =  _("{COLOR GREEN}TRUE");
-static const u8 sDebugText_Colored_False[] = _("{COLOR RED}FALSE");
+static const u8 sDebugText_True[] =          _("True");
+static const u8 sDebugText_False[] =         _("False");
+static const u8 sDebugText_Colored_True[] =  _("{COLOR GREEN}True");
+static const u8 sDebugText_Colored_False[] = _("{COLOR RED}False");
 static const u8 sDebugText_Dashes[] =        _("---");
 static const u8 sDebugText_Empty[] =         _("");
 static const u8 sDebugText_Continue[] =      _("Continue…{CLEAR_TO 110}{RIGHT_ARROW}");
@@ -447,7 +447,7 @@ static const u8 sDebugText_FlagsVars[] =        _("Flags & Vars…{CLEAR_TO 110}
 static const u8 sDebugText_Battle[] =           _("Battle Test…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_Give[] =             _("Give X…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_PkmCreator[] =       _("Pokémon Creator…{CLEAR_TO 110}{RIGHT_ARROW}");
-static const u8 sDebugText_Fill[] =             _("Fill PC/Pockets…{CLEAR_TO 110}{RIGHT_ARROW}");
+static const u8 sDebugText_Fill[] =             _("Fill Pc/Pockets…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_Sound[] =            _("Sound…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_AccessPC[] =         _("Access PC…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_Cancel[] =           _("Cancel");
@@ -478,12 +478,12 @@ static const u8 sDebugText_Util_WatchCredits[] =            _("Watch Credits…{
 static const u8 sDebugText_Util_Trainer_Name[] =            _("Trainer name");
 static const u8 sDebugText_Util_Trainer_Gender[] =          _("Toggle T. Gender");
 static const u8 sDebugText_Util_Trainer_Id[] =              _("New Trainer Id");
-static const u8 sDebugText_Util_CheatStart[] =              _("CHEAT Start");
+static const u8 sDebugText_Util_CheatStart[] =              _("Cheat Start");
 // Flags/Vars Menu
-static const u8 sDebugText_FlagsVars_Flags[] =                  _("Set Flag XYZ…{CLEAR_TO 110}{RIGHT_ARROW}");
+static const u8 sDebugText_FlagsVars_Flags[] =                  _("Set Flag Xyz…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_FlagsVars_Flag[] =                   _("Flag: {STR_VAR_1}{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}\n{STR_VAR_3}");
 static const u8 sDebugText_FlagsVars_FlagHex[] =                _("{STR_VAR_1}{CLEAR_TO 90}\n0x{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_FlagsVars_Vars[] =                   _("Set Var XYZ…{CLEAR_TO 110}{RIGHT_ARROW}");
+static const u8 sDebugText_FlagsVars_Vars[] =                   _("Set Var Xyz…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_FlagsVars_VariableHex[] =            _("{STR_VAR_1}{CLEAR_TO 90}\n0x{STR_VAR_2}{CLEAR_TO 90}");
 static const u8 sDebugText_FlagsVars_Variable[] =               _("Var: {STR_VAR_1}{CLEAR_TO 90}\nVal: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_2}");
 static const u8 sDebugText_FlagsVars_VariableValueSet[] =       _("Var: {STR_VAR_1}{CLEAR_TO 90}\nVal: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_2}");
@@ -497,12 +497,12 @@ static const u8 sDebugText_FlagsVars_RunningShoes[] =           _("Toggle {STR_V
 static const u8 sDebugText_FlagsVars_ToggleFlyFlags[] =         _("Toggle {STR_VAR_1}Fly Flags");
 static const u8 sDebugText_FlagsVars_ToggleAllBadges[] =        _("Toggle {STR_VAR_1}All badges");
 static const u8 sDebugText_FlagsVars_ToggleFrontierPass[] =     _("Toggle {STR_VAR_1}Frontier Pass");
-static const u8 sDebugText_FlagsVars_BattleDmg[] =              _("Toggle {STR_VAR_1}BattleDmg OFF");
-static const u8 sDebugText_FlagsVars_SwitchCollision[] =        _("Toggle {STR_VAR_1}Collision OFF");
-static const u8 sDebugText_FlagsVars_SwitchEncounter[] =        _("Toggle {STR_VAR_1}Encounter OFF");
-static const u8 sDebugText_FlagsVars_SwitchTrainerSee[] =       _("Toggle {STR_VAR_1}TrainerSee OFF");
-static const u8 sDebugText_FlagsVars_SwitchBagUse[] =           _("Toggle {STR_VAR_1}BagUse OFF");
-static const u8 sDebugText_FlagsVars_SwitchCatching[] =         _("Toggle {STR_VAR_1}Catching OFF");
+static const u8 sDebugText_FlagsVars_BattleDmg[] =              _("Toggle {STR_VAR_1}BattleDmg Off");
+static const u8 sDebugText_FlagsVars_SwitchCollision[] =        _("Toggle {STR_VAR_1}Collision Off");
+static const u8 sDebugText_FlagsVars_SwitchEncounter[] =        _("Toggle {STR_VAR_1}Encounter Off");
+static const u8 sDebugText_FlagsVars_SwitchTrainerSee[] =       _("Toggle {STR_VAR_1}TrainerSee Off");
+static const u8 sDebugText_FlagsVars_SwitchBagUse[] =           _("Toggle {STR_VAR_1}BagUse Off");
+static const u8 sDebugText_FlagsVars_SwitchCatching[] =         _("Toggle {STR_VAR_1}Catching Off");
 // Battle
 static const u8 sDebugText_Battle_0_Wild[] =        _("Wild…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_Battle_0_WildDouble[] =  _("Wild Double…{CLEAR_TO 110}{RIGHT_ARROW}");
@@ -550,7 +550,7 @@ static const u8 sDebugText_Battle_2_Terrain_7[] =   _("Cave…{CLEAR_TO 110}{RIG
 static const u8 sDebugText_Battle_2_Terrain_8[] =   _("Building…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_Battle_2_Terrain_9[] =   _("Plain…{CLEAR_TO 110}{RIGHT_ARROW}");
 // Give Menu
-static const u8 sDebugText_Give_GiveItem[] =            _("Give item XYZ…{CLEAR_TO 110}{RIGHT_ARROW}");
+static const u8 sDebugText_Give_GiveItem[] =            _("Give item Xyz…{CLEAR_TO 110}{RIGHT_ARROW}");
 static const u8 sDebugText_ItemQuantity[] =             _("Quantity:{CLEAR_TO 90}\n{STR_VAR_1}{CLEAR_TO 90}\n\n{STR_VAR_2}");
 static const u8 sDebugText_ItemID[] =                   _("Item Id: {STR_VAR_3}\n{STR_VAR_1}{CLEAR_TO 90}\n\n{STR_VAR_2}");
 static const u8 sDebugText_Give_AllTMs[] =              _("Give all TMs");
@@ -562,12 +562,12 @@ static const u8 sDebugText_PokemonShiny[] =             _("Shiny:{CLEAR_TO 90}\n
 static const u8 sDebugText_PokemonNature[] =            _("NatureId: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_1}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
 static const u8 sDebugText_PokemonAbility[] =           _("AbilityNum: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_1}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
 static const u8 sDebugText_PokemonIVs[] =               _("All IVs:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_PokemonIV_0[] =              _("IV HP:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_PokemonIV_1[] =              _("IV Attack:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_PokemonIV_2[] =              _("IV Defense:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_PokemonIV_3[] =              _("IV Speed:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_PokemonIV_4[] =              _("IV Sp. Attack:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
-static const u8 sDebugText_PokemonIV_5[] =              _("IV Sp. Defense:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
+static const u8 sDebugText_PokemonIV_0[] =              _("Iv HP:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
+static const u8 sDebugText_PokemonIV_1[] =              _("Iv Attack:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
+static const u8 sDebugText_PokemonIV_2[] =              _("Iv Defense:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
+static const u8 sDebugText_PokemonIV_3[] =              _("Iv Speed:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
+static const u8 sDebugText_PokemonIV_4[] =              _("Iv Sp. Attack:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
+static const u8 sDebugText_PokemonIV_5[] =              _("Iv Sp. Defense:{CLEAR_TO 90}\n    {STR_VAR_3}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
 static const u8 sDebugText_PokemonMove_0[] =            _("Move 0: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_1}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
 static const u8 sDebugText_PokemonMove_1[] =            _("Move 1: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_1}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
 static const u8 sDebugText_PokemonMove_2[] =            _("Move 2: {STR_VAR_3}{CLEAR_TO 90}\n{STR_VAR_1}{CLEAR_TO 90}\n{CLEAR_TO 90}\n{STR_VAR_2}{CLEAR_TO 90}");
@@ -1968,26 +1968,26 @@ static void DebugAction_Util_CheckSaveBlock(u8 taskId)
 }
 
 static const u8 sWeatherNames[22][24] = {
-    [WEATHER_NONE]               = _("NONE"),
-    [WEATHER_SUNNY_CLOUDS]       = _("SUNNY CLOUDS"),
-    [WEATHER_SUNNY]              = _("SUNNY"),
-    [WEATHER_RAIN]               = _("RAIN"),
-    [WEATHER_SNOW]               = _("SNOW"),
-    [WEATHER_RAIN_THUNDERSTORM]  = _("RAIN THUNDERSTORM"),
-    [WEATHER_FOG_HORIZONTAL]     = _("FOG HORIZONTAL"),
-    [WEATHER_VOLCANIC_ASH]       = _("VOLCANIC ASH"),
-    [WEATHER_SANDSTORM]          = _("SANDSTORM"),
-    [WEATHER_FOG_DIAGONAL]       = _("FOG DIAGONAL"),
-    [WEATHER_UNDERWATER]         = _("UNDERWATER"),
-    [WEATHER_SHADE]              = _("SHADE"),
-    [WEATHER_DROUGHT]            = _("DROUGHT"),
-    [WEATHER_DOWNPOUR]           = _("DOWNPOUR"),
-    [WEATHER_UNDERWATER_BUBBLES] = _("UNDERWATER BUBBLES"),
+    [WEATHER_NONE]               = _("None"),
+    [WEATHER_SUNNY_CLOUDS]       = _("Sunny Clouds"),
+    [WEATHER_SUNNY]              = _("Sunny"),
+    [WEATHER_RAIN]               = _("Rain"),
+    [WEATHER_SNOW]               = _("Snow"),
+    [WEATHER_RAIN_THUNDERSTORM]  = _("Rain Thunderstorm"),
+    [WEATHER_FOG_HORIZONTAL]     = _("Fog Horizontal"),
+    [WEATHER_VOLCANIC_ASH]       = _("Volcanic Ash"),
+    [WEATHER_SANDSTORM]          = _("Sandstorm"),
+    [WEATHER_FOG_DIAGONAL]       = _("Fog Diagonal"),
+    [WEATHER_UNDERWATER]         = _("Underwater"),
+    [WEATHER_SHADE]              = _("Shade"),
+    [WEATHER_DROUGHT]            = _("Drought"),
+    [WEATHER_DOWNPOUR]           = _("Downpour"),
+    [WEATHER_UNDERWATER_BUBBLES] = _("Underwater Bubbles"),
     [WEATHER_ABNORMAL]           = _("ABNORMAL(NOT WORKING)"),
-    [WEATHER_ROUTE119_CYCLE]     = _("ROUTE119 CYCLE"),
-    [WEATHER_ROUTE123_CYCLE]     = _("ROUTE123 CYCLE"),
+    [WEATHER_ROUTE119_CYCLE]     = _("ROUTE119 Cycle"),
+    [WEATHER_ROUTE123_CYCLE]     = _("ROUTE123 Cycle"),
 };
-static const u8 sText_WeatherNotDefined[] = _("NOT DEFINED!!!");
+static const u8 sText_WeatherNotDefined[] = _("Not Defined!!!");
 static void DebugAction_Util_Weather(u8 taskId)
 {
     u8 windowId;

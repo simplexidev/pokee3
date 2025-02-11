@@ -464,7 +464,7 @@ void CreateWonderTradePokemon(void)
             .personality = 0, // Handled by CreateMon->CreateBoxMon.
             .heldItem = newHeldItem,
             .mailNum = -1,
-            .otName = _("ERROR"),
+            .otName = _("Error"),
             .otGender = FEMALE, // Decided by the personality generated in CreateMon->CreateBoxMon.
             .sheen = 0,
             .requestedSpecies = GetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_SPECIES)
